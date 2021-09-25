@@ -1,6 +1,6 @@
 # Many-Switches-One-Interrupt
 
-# Summary
+## Summary
 An Arduino sketch that shows how we are able to use many switches of different types, wired in different schemes to a single interrupt service routine.
 
 The supplied example sketch is configured for six switches - three x xtoggle and three x button.
