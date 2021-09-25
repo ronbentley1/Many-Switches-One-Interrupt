@@ -10,5 +10,6 @@ The method is fully software driven and does not require any physical connection
 The features used by the sketch arise from the ez_switch_lib library.
 
 See the circuits diagram for the wiring scheme and the Arduino project hub:
+
 https://create.arduino.cc/projecthub/ronbentley1/multiple-switches-one-interrupt-75f2f7?ref=user&ref_id=1455180&offset=0
 
