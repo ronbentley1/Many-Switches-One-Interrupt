@@ -40,7 +40,7 @@ Switches my_switches(num_switches); // create the 'Switches' instance for the gi
 // 'my_switch_data' layout, one row of data for each switch to be configured,
 // as follows:
 // [][0] = switch type (button_switch or toggle_switch)
-// [][1] = digital output pin connected to switch
+// [][1] = digital pin connected to switch
 // [][2] = the circuit type connecting the switch, here the first 3 switches
 //         will have 10k ohm pull down resistors wired (circuit_C1 - INPUT type)
 //         and the remainder none (circuit_C2 - INPUT_PULLUP type).
